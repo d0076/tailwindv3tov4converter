@@ -1,7 +1,6 @@
 # Tailwind CSS v3 to v4 Converter
 
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live%20Demo-brightgreen)](https://yourusername.github.io/tailwindv3tov4converter/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live%20Demo-brightgreen)](https://d0076.github.io/tailwind-v3-to-v4/)
 [![Built with React](https://img.shields.io/badge/Built%20with-React-61DAFB)](https://reactjs.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Styled%20with-Tailwind%20CSS-38B2AC)](https://tailwindcss.com/)
 
@@ -30,7 +29,7 @@ Perfect for migrating [shadcn/ui](https://ui.shadcn.com) projects to Tailwind CS
 
 ## 🚀 Live Demo
 
-**[Try it now →](https://yourusername.github.io/tailwindv3tov4converter/)**
+**[Try it now →](https://d0076.github.io/tailwind-v3-to-v4/)**
 
 ## 📖 How to Use
 
@@ -103,10 +102,10 @@ Perfect for migrating [shadcn/ui](https://ui.shadcn.com) projects to Tailwind CS
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/tailwindv3tov4converter.git
+git clone https://github.com/d0076/tailwind-v3-to-v4.git
 
 # Navigate to project directory
-cd tailwindv3tov4converter
+cd tailwind-v3-to-v4
 
 # Install dependencies
 npm install
@@ -178,29 +177,9 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - [Tailwind CSS Team](https://tailwindcss.com/) for the amazing framework
 - [shadcn](https://ui.shadcn.com/) for the beautiful component library
 - [React Team](https://reactjs.org/) for the excellent framework
 - The open-source community for inspiration and support
-
-## 📧 Support
-
-If you have any questions or need help with the tool:
-
-- 🐛 [Report a Bug](https://github.com/yourusername/tailwindv3tov4converter/issues)
-- 💡 [Request a Feature](https://github.com/yourusername/tailwindv3tov4converter/issues)
-- 📖 [View Documentation](https://github.com/yourusername/tailwindv3tov4converter#readme)
-
----
-
-<div align="center">
-  <strong>Made with ❤️ for the Tailwind CSS and shadcn/ui community</strong>
-  <br />
-  <sub>Star ⭐ this repository if it helped you!</sub>
-</div>
