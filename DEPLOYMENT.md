@@ -40,10 +40,8 @@ You can also trigger deployment manually:
 After successful deployment, your site will be available at:
 
 ```
-https://YOUR_USERNAME.github.io/tailwindv3tov4converter/
+https://d0076.github.io/tailwindv3tov4converter/
 ```
-
-Replace `YOUR_USERNAME` with your actual GitHub username.
 
 ## Configuration Details
 

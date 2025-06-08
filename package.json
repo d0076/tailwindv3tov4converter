@@ -3,6 +3,14 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://d0076.github.io/tailwindv3tov4converter/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/d0076/tailwindv3tov4converter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/d0076/tailwindv3tov4converter/issues"
+  },
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",

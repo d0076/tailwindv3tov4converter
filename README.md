@@ -1,6 +1,6 @@
 # Tailwind CSS v3 to v4 Converter
 
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live%20Demo-brightgreen)](https://d0076.github.io/tailwind-v3-to-v4/)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live%20Demo-brightgreen)](https://d0076.github.io/tailwindv3tov4converter/)
 [![Built with React](https://img.shields.io/badge/Built%20with-React-61DAFB)](https://reactjs.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Styled%20with-Tailwind%20CSS-38B2AC)](https://tailwindcss.com/)
 
@@ -29,7 +29,7 @@ Perfect for migrating [shadcn/ui](https://ui.shadcn.com) projects to Tailwind CS
 
 ## 🚀 Live Demo
 
-**[Try it now →](https://d0076.github.io/tailwind-v3-to-v4/)**
+**[Try it now →](https://d0076.github.io/tailwindv3tov4converter/)**
 
 ## 📖 How to Use
 
@@ -102,10 +102,10 @@ Perfect for migrating [shadcn/ui](https://ui.shadcn.com) projects to Tailwind CS
 
 ```bash
 # Clone the repository
-git clone https://github.com/d0076/tailwind-v3-to-v4.git
+git clone https://github.com/d0076/tailwindv3tov4converter.git
 
 # Navigate to project directory
-cd tailwind-v3-to-v4
+cd tailwindv3tov4converter
 
 # Install dependencies
 npm install
